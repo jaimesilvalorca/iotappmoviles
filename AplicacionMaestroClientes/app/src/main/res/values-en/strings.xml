@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Customer App</string>
+    <string name="rut">Tax ID</string>
+    <string name="razon">Company Name</string>
+    <string name="correo">Email</string>
+    <string name="enviar">Send</string>
+    <string name="enviando">Sending data</string>
+</resources>

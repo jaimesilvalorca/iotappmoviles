@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aplicacion Clientes</string>
+    <string name="rut">Rut</string>
+    <string name="razon">Razón Social</string>
+    <string name="correo">Correo</string>
+    <string name="enviar">Enviar</string>
+    <string name="enviando">Enviando datos</string>
+</resources>

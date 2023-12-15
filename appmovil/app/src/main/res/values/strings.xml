@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">appmovil</string>
+    <string name="rut">Rut</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="fecha_de_nacimiento">Fecha de nacimiento</string>
+    <string name="enviar_formulario">Enviar Formulario</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="ver_t_rminos_y_condiciones">Ver términos y condiciones</string>
+    <string name="suscripci_n_gratuita">Suscripción gratuita</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="cencelar">Cencelar</string>
+</resources>
